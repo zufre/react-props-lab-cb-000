@@ -24,7 +24,4 @@ Spaceship.defaultProps = {
   colors:['black', 'red']
 }
 
-ReactDOM.render(
-  <Spaceship />,
-  document.getElementById('root')
-);
+
